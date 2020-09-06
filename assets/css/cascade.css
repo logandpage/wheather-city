@@ -1,0 +1,24 @@
+*{
+    background-color: lightblue;
+}
+
+.jumbotron {
+    color: whitesmoke;
+    background-color: yellow;
+    text-align: center;
+}
+
+h1{
+    background-color: yellow;
+    font-weight: bolder;
+    font-size: 80px;
+    text-shadow: 2px 2px 4px black;
+}
+
+footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
